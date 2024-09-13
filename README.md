@@ -1,4 +1,4 @@
-# Hi there, I am SW developer Joonyong Jeon. 👋 #
+# Hi there, I am SW Developer Joonyong Jeon. 👋 #
 
 Now I'm working in the R&D department at 'SecuDaim', located in Gangnam.
 http://secudaim.com
@@ -7,13 +7,17 @@ http://secudaim.com
   <h2>Tech Stacks</h2>
 </div>
 <div align=left>
-  C/C++
+  Linux
   <br>
-  Python
+  Python, C/C++
   <br>
-  MySQL, MongoDB, Redis, ElasticSearch
+  Tensorflow, Pytorch, Jupyter Notebook
   <br>
-  EC2, RDS, GCP, Docker, K8S, Jenkins
+  PostgreSQL, Redis
+  <br>
+  EC2, Docker, K8S, Jenkins
+  <br>
+  Grafana
   <br>
 </div>
 <br>
